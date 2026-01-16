@@ -25,7 +25,7 @@ const WORKER_URL = 'https://pear.zzxu.de';
 // 用户配置 (qx用户自己修改CustomScheme 需要填写完整的UrlScheme)
 let USER_CONFIG = {
     PLAYER_Code: "nplayer",    // 默认播放器
-    CustomScheme: "com.newin.nplayer",        // 自定义 Scheme
+    CustomScheme: "com.newin.playnplay.apps.nplayer://",        // 自定义 Scheme
     UrlEncode: "yes"            // 是否URL编码: "yes"/"no"/""(自动)
 };
 
